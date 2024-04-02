@@ -52,3 +52,12 @@ Texto 2
 
 ![Figura 17](https://github.com/hodfernando/Dio_Microsoft_Azure_AI_Fundamentals_AI900/raw/main/Desafio%203/imagens/17.png)
 
+## Fala para texto
+
+Você pode entrar em https://speech.microsoft.com/portal e após logar, podera utilizar o recurso.
+
+![Figura 18](https://github.com/hodfernando/Dio_Microsoft_Azure_AI_Fundamentals_AI900/raw/main/Desafio%203/imagens/18.png)
+
+![Figura 19](https://github.com/hodfernando/Dio_Microsoft_Azure_AI_Fundamentals_AI900/raw/main/Desafio%203/imagens/19.png)
+
+![Figura 20](https://github.com/hodfernando/Dio_Microsoft_Azure_AI_Fundamentals_AI900/raw/main/Desafio%203/imagens/20.png)
