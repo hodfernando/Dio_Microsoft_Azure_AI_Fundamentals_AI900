@@ -8,3 +8,9 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/13
 
 https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/14-azure-openai-content-filters.html
 
+## Explorando Generative AI com Microsoft Copilot
+
+Infelizmente ao acessar o link https://copilot.microsoft.com não foi possível acessar o serviço, pois o mesmo não está disponível.
+
+Imagem 1
+
