@@ -12,5 +12,5 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/14
 
 Infelizmente ao acessar o link https://copilot.microsoft.com não foi possível acessar o serviço, pois o mesmo não está disponível.
 
-Imagem 1
+![Imagem 1](https://github.com/hodfernando/Dio_Microsoft_Azure_AI_Fundamentals_AI900/raw/main/Desafio%205/imagens/1.png)
 
