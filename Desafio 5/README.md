@@ -26,7 +26,7 @@ Acessando o link https://oai.azure.com/ você irá conseguir criar o seu modelo.
 
 ![Imagem 5](https://github.com/hodfernando/Dio_Microsoft_Azure_AI_Fundamentals_AI900/raw/main/Desafio%205/imagens/5.png)
 
-Agora use o Chat Ai para interagir com o modelo.
+Agora use o Playground de chat para interagir com o modelo.
 
 ![Imagem 6](https://github.com/hodfernando/Dio_Microsoft_Azure_AI_Fundamentals_AI900/raw/main/Desafio%205/imagens/6.png)
 
@@ -47,3 +47,24 @@ Gerar imagens com Dall-E.
 ![Imagem 13](https://github.com/hodfernando/Dio_Microsoft_Azure_AI_Fundamentals_AI900/raw/main/Desafio%205/imagens/13.png)
 
 ![Imagem 14](https://github.com/hodfernando/Dio_Microsoft_Azure_AI_Fundamentals_AI900/raw/main/Desafio%205/imagens/14.png)
+
+## Explorando OpenAI com Azure Content Filters
+
+Agora use o Playground de chat para interagir com o modelo.
+
+![Imagem 15](https://github.com/hodfernando/Dio_Microsoft_Azure_AI_Fundamentals_AI900/raw/main/Desafio%205/imagens/15.png)
+
+![Imagem 16](https://github.com/hodfernando/Dio_Microsoft_Azure_AI_Fundamentals_AI900/raw/main/Desafio%205/imagens/16.png)
+
+![Imagem 17](https://github.com/hodfernando/Dio_Microsoft_Azure_AI_Fundamentals_AI900/raw/main/Desafio%205/imagens/17.png)
+
+No Azure OpenAI Studio, você pode acessar a página de filtros de conteúdo para personalizar as configurações de restrição de linguagem em prompts e conclusões geradas. Os filtros de conteúdo visam prevenir a geração de linguagem potencialmente prejudicial em quatro categorias principais:
+
+- **Ódio**: Linguagem que expressa discriminação ou declarações pejorativas.
+- **Sexual**: Linguagem sexualmente explícita ou abusiva.
+- **Violência**: Linguagem que descreve, defende ou glorifica a violência.
+- **Autolesão**: Linguagem que descreve ou incentiva a autolesão.
+
+Os filtros são aplicados com diferentes níveis de gravidade, incluindo segurança, baixa, média e alta, para determinar que tipos específicos de linguagem são interceptados e impedidos pelo filtro.
+
+Por padrão, as configurações permitem linguagem de baixa gravidade para cada categoria. No entanto, é possível criar filtros personalizados mais restritivos aplicando restrições adicionais aos níveis de gravidade baixa. É importante observar que a modificação para permitir linguagem de gravidade média ou alta requer permissão específica, baseada nos requisitos do cenário de inteligência artificial generativa em questão.
